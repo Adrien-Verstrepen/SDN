@@ -26,9 +26,12 @@ On execute ```git clone```la commande donnée dans le git bash et on récupère 
 ### Comment on utilise git ?
 Une fois qu'on a cloné le repo, on va dans le dossier correspondant puis on créé la branche sur laquelle on va travailler : 
 ```git checkout -b [NOM_BRANCHE]```
+
 Une fois qu'on est satisfait des changements : 
 ```git add .```
+
 ```git commit -m "message"```
+
 ```git push```
 
 En cas d'erreur : "fatal: The current branch [NOM_BRANCHE] has no upstream branch." il faut executer ```git push --set-upstream origin [NOM_BRANCHE]```
