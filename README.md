@@ -40,6 +40,7 @@ Une fois que la feature / fix est correctement implémenté, on fait une pull re
 
 ### Création clé SSH
 On vérifie qu'on a une clé ssh ajoutée sur github sinon on en créée une : 
+
 Dans git bash : ```ssh-keygen -t rsa 4096 -C "ton_mail@exemple.com"```
 Cela génère la paire de clé privée / publique pour ssh.
 Le nom du fichier peut rester id_rsa mais attention à ne pas écraser des clés existantes.
