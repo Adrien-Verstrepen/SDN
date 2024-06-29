@@ -52,3 +52,9 @@ Et on va sur : https://github.com/settings/ssh/new
 On clique sur add SSH key et c'est bon !
 
 ## Le fonctionnement de git
+
+![gitflow](https://github.com/AdrienVerstrepen/SDN/assets/145664365/9832e51e-4314-42d9-9eb9-a1702ceda1e0)
+
+La branche master est la branche principale où l'on a la version de production de l'application / code
+La branche develop nous servira à fusionner les branches de développement des fonctionnalités / fix
+Les branches features sont indépendantes : une fonctionnalité = une branche
