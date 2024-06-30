@@ -64,3 +64,13 @@ La branche master est la branche principale où l'on a la version de production 
 La branche develop nous servira à fusionner les branches de développement des fonctionnalités / fix
 
 Les branches features sont indépendantes : une fonctionnalité = une branche
+
+## Les tickets et le tableau de bord
+
+* Lorsque vous voulez ajouter une fonctionnalité ou faire une demande de correctif vous pouvez ouvrir un ticket dans la section "issues".
+
+* L'avantage c'est que derrière on aura les différents ticket dans le tableau de bord (situé dans la rubrique "projects") nous permettant d'avoir une meilleure visibilité sur l'avancement des projets.
+
+* Concernant ce tableau de bord, les nouveaux tickets créés y sont mis automatiquement dans la colonne "backlog" puis lorsque vous avez rassemblé les éléments nécessaire à leur réalisation vous pouvez déplacer dans la colonne "en cours". Si besoin d'avoir des précisions mettre dans la colonne "Prêt à être réalisé".
+
+* Une fois que le ticket est fini, vous pouvez le déplacer dans la colonne "Fermé"
